@@ -1,3 +1,3 @@
-# ;yhon-challenge
+# pyhon-challenge
 Kristina's Python Homework
 
