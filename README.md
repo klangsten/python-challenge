@@ -1,2 +1,3 @@
-# pandas-challenge
-Kristina's Pandas Homework
+# ;yhon-challenge
+Kristina's Python Homework
+
